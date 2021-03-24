@@ -10,3 +10,6 @@ CODIGO EJS
 
 ![image](https://user-images.githubusercontent.com/49913741/112392587-688fa100-8cd8-11eb-87a5-1abbe02e97db.png)
 
+EXPRESS Y JS
+
+![image](https://user-images.githubusercontent.com/49913741/112392744-af7d9680-8cd8-11eb-81d8-fd823ad67972.png)
