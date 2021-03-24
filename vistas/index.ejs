@@ -1,0 +1,13 @@
+<%-include("templates/cabecera", {tituloWeb: 'Inicio'}) %>
+<%- include('templates/nav',{nav:'Inicio'}); %>
+
+<body>
+   
+    <!------llamando al titulo dinamico de express js -->
+    <h2><%= titulo %></h2>
+    <%- include('templates/section'); %>
+ 
+    <%- include('templates/footer',{titulofooter:'el footer del index'}); %>
+
+ 
+<!-----hacer un footer para todas las paginas-->
